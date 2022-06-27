@@ -3,8 +3,8 @@
 	<br>
 	<img src="https://img.shields.io/badge/-Wizoh%237479-000?style=for-the-badge&amp;logo=Discord&amp;logoColor=white"/>
 	<br>
-	</h1>
 <h1 align="center">
+	</h1>
 	<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 	<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=%23ffffff"/>
 	<br>
