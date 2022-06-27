@@ -11,7 +11,6 @@
 	<img alt="MySQL" src="https://img.shields.io/badge/mysql-4c4c4c.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 	<img alt="SQLite" src="https://img.shields.io/badge/-SQLite-4287f5?style=for-the-badge&logo=sqlite&logoColor=23ffffff"/>
 	<br>
-	<img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff"/>
 	<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor%23ffffff"/>
 	<img alt="Windows" src="https://img.shields.io/badge/-Windows-00A4EF?style=for-the-badge&logo=windows&logoColor=23ffffff"/>
 	<br>
