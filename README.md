@@ -2,7 +2,6 @@
 	<br>
 	<br>
 	<img src="https://img.shields.io/badge/-Wizoh%237479-000?style=for-the-badge&amp;logo=Discord&amp;logoColor=white"/>
-  	<a href="https://www.linkedin.com/in/jos%C3%A9-arnaldo-118b181b4/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/jos%C3%A9%20Arnaldo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 	<br>
 </h1>
 <h1 align="center">
